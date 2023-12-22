@@ -52,7 +52,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <div id="badges">
-  <a href="www.linkedin.com/in/lvvargas-aponte">
+  <a href="https://www.linkedin.com/in/lvvargas-aponte">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:luzvarga@buffalo.edu">
