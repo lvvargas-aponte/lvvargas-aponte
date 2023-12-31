@@ -9,7 +9,7 @@
   <img align ="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmQ4OXkwdmxwbThheWIydXRhaHczNHQxeW8wbGI3OHNqa2RlODU4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" alt="Cat Girl GIF by Pluralsight" style="width: 500px; height: 281.25px; opacity: 0; left: 0px; top: 0px;"/>
   
   <h3>About me:</h3>
-  <p float="left">🖥️ What started as a modest hobby has flourished into an unwavering passion, propelling me on a quest to excel as a Software Engineer. Armed with a foundation in technical business analysis and a background in chemistry, I offer a unique perspective on the coding universe. The analytical skills and problem-solving finesse developed through studying chemical reactions seamlessly blend with the intricate world of coding algorithms. Just as I once marveled at the elegant dance of elements, I'm thrilled to infuse a similar spirit of discovery into crafting innovative software solutions. Let's code and create together! 💡</p>  
+  <p float="left" style="justify-center">🖥️ What started as a modest hobby has flourished into an unwavering passion, propelling me on a quest to excel as a Software Engineer. Armed with a foundation in technical business analysis and a background in chemistry, I offer a unique perspective on the coding universe. The analytical skills and problem-solving finesse developed through studying chemical reactions seamlessly blend with the intricate world of coding algorithms. Just as I once marveled at the elegant dance of elements, I'm thrilled to infuse a similar spirit of discovery into crafting innovative software solutions. Let's code and create together! 💡</p>  
 
 <h4 align="left">Languages:</h4>
 <div>
