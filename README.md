@@ -11,13 +11,12 @@
   <h3>About me:</h3>
   <p align="left">🖥️ What started as a modest hobby has flourished into an unwavering passion, propelling me on a quest to excel as a Software Engineer. Armed with a foundation in technical business analysis and a background in chemistry, I offer a unique perspective on the coding universe. The analytical skills and problem-solving finesse developed through studying chemical reactions seamlessly blend with the intricate world of coding algorithms. Just as I once marveled at the elegant dance of elements, I'm thrilled to infuse a similar spirit of discovery into crafting innovative software solutions. Let's code and create together! 💡</p>  
 
-
 <h4 align="left">Languages:</h4>
 <div>
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/sql-000000?style=for-the-badge&logo=sql&logoColor=white" />
 </div>
@@ -62,11 +61,9 @@
 </div>
 </br>
 
-<h4>🧮 My Progress:</h4>
+<h4>🧮 Stats:</h4>
   <p>
-    <img src="https://github-readme-stats-lvvargas-apontes-projects.vercel.app/api/top-langs/?username=lvvargas-aponte&theme=tokyonight" alt="lvvargas-aponte"/>
+    <img src="https://github-readme-stats-lvvargas-apontes-projects.vercel.app/api/top-langs/?username=lvvargas-aponte&langs_count=10&theme=tokyonight" alt="lvvargas-aponte"/>
   <img src="https://github-readme-stats-lvvargas-apontes-projects.vercel.app/api?username=lvvargas-aponte&show_icons=true&theme=tokyonight&locale=en" alt="lvvargas-aponte" />
   </p>
-
-
 
